@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rachelsailer
+- 👋 Hi, I’m Rachel!
 - 👀 I’m interested in learning how to code!
 - 🌱 I’m currently learning HTML
 
