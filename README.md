@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rachel!
 - 👀 I’m interested in learning how to code!
-- 🌱 I’m currently learning HTML, self taught!
+- 🌱 I’m currently learning CSS, self taught!
 
 
 <!---
